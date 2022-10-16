@@ -2,7 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 This webpage is a study guide for HTML, CSS, JavaScript, and Git. It was completed with both teaching and pratical purposes in mind. While also being a lesson in the demonstration and application of the basic web development languages, it will serve as an ongoing tool for storing and reviewing notes throughout the course. While one could use a notebook and pencil for note-taking, it only makes sense for a student of the bootcamp to create a webpage to begin learning HTML, CSS, and JavaScript, and to serve the same purpose of information storage.
 
 
